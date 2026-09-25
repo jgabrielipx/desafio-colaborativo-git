@@ -1,2 +1,2 @@
-# desafio-colaborativo-git
+# # Calculadora de Notas - Projeto Colaborativo Git
 trabalho GITHUB em grupo.
